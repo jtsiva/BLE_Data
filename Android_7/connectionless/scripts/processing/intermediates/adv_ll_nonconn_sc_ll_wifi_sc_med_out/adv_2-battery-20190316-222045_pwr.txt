@@ -1,0 +1,85 @@
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Estimated battery capacity: 2959 mAh
+  Time on battery: 10m 2s 37ms (95.2%) realtime, 10m 2s 38ms (95.2%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 10m 32s 125ms realtime, 10m 32s 125ms uptime
+  Discharge: 17.5 mAh
+  Screen off discharge: 0 mAh
+  Screen on discharge: 17.5 mAh
+  Start clock time: 2019-03-16-18-10-40
+  Screen on: 10m 2s 37ms (100.0%) 0x, Interactive: 10m 2s 37ms (100.0%)
+  Screen brightnesses:
+    dark 10m 2s 37ms (100.0%)
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels:
+    poor 10m 2s 37ms (100.0%) 0x
+  Signal scanning time: 0ms
+  Radio types:
+    none 10m 2s 37ms (100.0%) 0x
+  Mobile radio active time: 0ms (0.0%) 0x
+  Radio Idle time:   1m 25s 143ms (94.4%)
+  Radio Rx time:     5s 11ms (5.6%)
+  Radio Tx time:     0ms (0.0%)
+    [0] 0ms (--%)
+    [1] 0ms (--%)
+    [2] 0ms (--%)
+    [3] 0ms (--%)
+    [4] 0ms (--%)
+  Radio Power drain: 0mAh
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 10m 2s 37ms (100.0%), Wifi running: 10m 2s 37ms (100.0%)
+  Wifi states: (no activity)
+  Wifi supplicant states:
+    completed 10m 2s 37ms (100.0%) 0x
+  Wifi signal levels:
+    level(3) 10m 2s 37ms (100.0%) 0x
+  WiFi Idle time:   0ms (--%)
+  WiFi Rx time:     0ms (--%)
+  WiFi Tx time:     0ms (--%)
+  WiFi Power drain: 0mAh
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 10m 2s 37ms 
+  Bluetooth Idle time:   20s 70ms (20.1%)
+  Bluetooth Rx time:     1m 9s 530ms (69.7%)
+  Bluetooth Tx time:     10s 214ms (10.2%)
+  Bluetooth Power drain: 0.534mAh
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 1
+    Amount discharged while screen on: 1
+    Amount discharged while screen off: 0
+
+  Estimated power use (mAh):
+    Capacity: 3038, Computed drain: 27.3, actual drain: 0-30.4
+    Screen: 19.2
+    Cell standby: 4.18 ( radio=4.18 )
+    Idle: 1.84
+    Bluetooth: 0.489 ( cpu=0.00188 bt=0.487 )
+    Uid u0a50: 0.338 ( sensor=0.338 )
+    Uid 1000: 0.332 ( cpu=0.332 )
+    Uid 0: 0.257 ( cpu=0.257 wake=0.00000194 )
+    Uid u0a136: 0.190 ( cpu=0.190 )
+    Wifi: 0.179 ( cpu=0.00324 wifi=0.176 )
+    Uid 1001: 0.124 ( cpu=0.00264 sensor=0.121 )
+    Uid u0a33: 0.0821 ( cpu=0.0347 bt=0.0471 sensor=0.000248 )
+    Uid u0a69: 0.0175 ( cpu=0.0136 sensor=0.00390 )
+    Uid 9999: 0.0169 ( cpu=0.0169 )
+    Uid u0a51: 0.0159 ( cpu=0.0159 )
+    Uid u0a108: 0.0158 ( cpu=0.0158 )
+    Uid 1036: 0.00416 ( cpu=0.00416 )
+    Uid 1041: 0.00390 ( sensor=0.00390 )
+    Uid u0a43: 0.00124 ( cpu=0.00124 )
+    Uid u0a13: 0.00112 ( cpu=0.00112 )
+    Uid u0a15: 0.000512 ( cpu=0.000512 )
+    Uid u0a121: 0.000487 ( cpu=0.000487 )
+    Uid u0a119: 0.000393 ( cpu=0.000393 )
+    Uid u0a27: 0.000268 ( cpu=0.000268 )
+    Uid u0a137: 0.000219 ( cpu=0.000219 )
+    Uid u0a39: 0.000187 ( cpu=0.000187 )
+    Uid u0a71: 0.000138 ( cpu=0.000138 )
+    Uid u0a103: 0.000124 ( cpu=0.000124 )
+    Uid 2000: 0.0000689 ( cpu=0.0000689 )
+
+  0:
