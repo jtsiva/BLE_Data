@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, latency_startup
+NMF26X.J320VVRS2BRA2, OPSS28.85-17-6, unknown, unknown, unknown, 515, write_cmd,1089467656
