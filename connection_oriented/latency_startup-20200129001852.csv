@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, latency_startup
+PPR1.180610.011.J337UUES4BSK1, NMF26X.J320VVRS2BRA2, unknown, unknown, unknown, 250, write_cmd,1110678961
