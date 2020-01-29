@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, latency_startup
+PPR1.180610.011.J337UUES4BSK1, iot_rpi3-userdebug 8.1.0 OIM1.180327.092 5718152 dev-keys, unknown, unknown, unknown, 515, write_cmd,9075649032
