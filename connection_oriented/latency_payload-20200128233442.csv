@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, latency_payload
+lineage_potter-userdebug 8.1.0 OPM2.171026.006.H1 8eb29c2f15 test-keys, PPR1.180610.011.J337UUES4BSK1, unknown, unknown, unknown, 250, write_cmd,2747068883
