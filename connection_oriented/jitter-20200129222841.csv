@@ -1,4 +1,4 @@
-client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, conn_priority, jitter
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, jitter
 lineage_potter-userdebug 8.1.0 OPM2.171026.006.H1 8eb29c2f15 test-keys, iot_rpi3-userdebug 8.1.0 OIM1.180327.092 5718152 dev-keys, unknown, unknown, unknown, 250, write_req,2,96014323
 lineage_potter-userdebug 8.1.0 OPM2.171026.006.H1 8eb29c2f15 test-keys, iot_rpi3-userdebug 8.1.0 OIM1.180327.092 5718152 dev-keys, unknown, unknown, unknown, 250, write_req,2,193180625
 lineage_potter-userdebug 8.1.0 OPM2.171026.006.H1 8eb29c2f15 test-keys, iot_rpi3-userdebug 8.1.0 OIM1.180327.092 5718152 dev-keys, unknown, unknown, unknown, 250, write_req,2,290861615
