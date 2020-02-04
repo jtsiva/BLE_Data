@@ -1,4 +1,4 @@
-client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, conn_priority, jitter
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, jitter
 NMF26X.J320VVRS2BRA2, iot_rpi3-userdebug 8.1.0 OIM1.180327.092 5718152 dev-keys, unknown, unknown, unknown, 247, write_cmd,0,30982864
 NMF26X.J320VVRS2BRA2, iot_rpi3-userdebug 8.1.0 OIM1.180327.092 5718152 dev-keys, unknown, unknown, unknown, 247, write_cmd,0,38257135
 NMF26X.J320VVRS2BRA2, iot_rpi3-userdebug 8.1.0 OIM1.180327.092 5718152 dev-keys, unknown, unknown, unknown, 247, write_cmd,0,80513229
