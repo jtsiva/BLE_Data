@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, latency_startup
+lineage_potter-userdebug 8.1.0 OPM2.171026.006.H1 8eb29c2f15 test-keys, iot_rpi3-userdebug 8.1.0 OIM1.180327.092 5718152 dev-keys, unknown, unknown, unknown, 247, write_cmd,2,6126329881
