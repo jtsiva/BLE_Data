@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, latency_startup
+OPSS28.85-17-6, iot_rpi3-userdebug 8.1.0 OIM1.180327.092 5718152 dev-keys, unknown, unknown, unknown, 247, write_cmd,1,6811267293
