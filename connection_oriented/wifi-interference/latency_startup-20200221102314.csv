@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, latency_startup
+OPSS28.85-17-6, PPR1.180610.011.A505USQU3ASL6, unknown, unknown, unknown, 23, write_cmd,0,3363359866
