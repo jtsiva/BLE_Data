@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, latency_startup,wifi_rate,wifi_dir,wifi_target
+NPN25.137-33, OPSS28.85-17-6, unknown, unknown, unknown,23, write_cmd,0,2654936827,512K,out,client
