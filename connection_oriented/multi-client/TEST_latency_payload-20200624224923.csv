@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, latency_payload,group_ts
+QP1A.190711.020.A505USQS6BTE3, NMF26X.J320VVRS2BRA2, unknown, unknown, unknown,250, write_cmd,2,5488797810,20200624224823
