@@ -1,0 +1,2 @@
+client_device_id, server_device_id, phone_vendor, bt_version, bt_vendor, mtu, comm_method, conn_int, latency_payload,group_ts
+NPN25.137-33, QQ1A.191205.008, unknown, unknown, unknown,250, write_req,2,58372402378,20200626011109
